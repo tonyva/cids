@@ -1,8 +1,8 @@
 
 # University of Wisconsin-River Falls
 
-## Computer, Information, and Data Sciences
+## Department of Computer, Information, and Data Sciences
 
-### cids repository
+### The **cids** repository
 
 This repository is for any kind of code for the CIDS department at UWRF
