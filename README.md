@@ -3,6 +3,6 @@
 
 ## Department of Computer, Information, and Data Sciences
 
-### The **cids** repository
+### The cids repository
 
-This repository is for any kind of code for the CIDS department at UWRF
+This **cids** repository is for any kind of code for the CIDS department at UWRF
